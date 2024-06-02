@@ -31,7 +31,7 @@
 
     <properties>
         <inlong.root.dir>${project.parent.parent.parent.basedir}</inlong.root.dir>
-        <binlog.protobuf.version>2.5.0</binlog.protobuf.version>
+        <binlog.protobuf.version>3.16.3</binlog.protobuf.version>
     </properties>
 
     <dependencies>
